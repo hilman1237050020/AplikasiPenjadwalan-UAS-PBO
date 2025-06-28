@@ -3,7 +3,7 @@
 
 > **Tugas UAS Pemrograman Berorientasi Objek (PBO)**  
 > **UIN Sunan Gunung Djati Bandung**
-> **Semester 4 Tahun Ajaran 2024/2025**
+> **Semester 4 Tahun Ajaran 2025**
 
 ---
 
