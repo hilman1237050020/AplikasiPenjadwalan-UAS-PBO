@@ -137,7 +137,11 @@ INSERT INTO event (name, date, time, description, priority) VALUES
 
 ## 📸 Dokumentasi Tampilan *(Opsional)*
 
-*Silakan tambahkan screenshot tampilan aplikasi di sini.*
+### Tampilan Utama Aplikasi
+![Screenshot Dashboard](https://github.com/hilman1237050020/AplikasiPenjadwalan-UAS-PBO/blob/main/Demo%20Aplikasi/Screenshot%202025-06-28%20075749.png?raw=true)
+![Screenshot CRUD](https://github.com/hilman1237050020/AplikasiPenjadwalan-UAS-PBO/blob/main/Demo%20Aplikasi/Screenshot%202025-06-28%20075756.png?raw=true)
+
+*Caption: Tampilan utama aplikasi penjadwalan kegiatan*
 
 ---
 
