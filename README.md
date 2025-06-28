@@ -2,7 +2,7 @@
 # 📅 Aplikasi Penjadwalan Kegiatan - Kelompok 3
 
 > **Tugas UAS Pemrograman Berorientasi Objek (PBO)** <br>
-> **UIN Sunan Gunung Djati Bandung**<br>
+> **Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung**<br>
 > **Semester 4 Tahun Ajaran 2025**
 
 ---
