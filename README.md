@@ -2,7 +2,7 @@
 # 📅 Aplikasi Penjadwalan Kegiatan - Kelompok 3
 
 > **Tugas UAS Pemrograman Berorientasi Objek (PBO)**  
-> **Universitas Komputer Indonesia (UNIKOM)**  
+
 > **Semester Genap Tahun Ajaran 2024/2025**
 
 ---
