@@ -132,7 +132,7 @@ INSERT INTO event (name, date, time, description, priority) VALUES
 - Menerapkan struktur kode yang terpisah dan modular
 - Meningkatkan kemampuan kerja sama tim dalam proyek kelompok
 - Memahami alur **CRUD** (Create, Read, Update, Delete) dalam program GUI
-- Implementasi SOLID Principle kedalam aplikasi
+- Implementasi **SOLID** Principle kedalam aplikasi
 
 ---
 
@@ -140,6 +140,7 @@ INSERT INTO event (name, date, time, description, priority) VALUES
 
 ### Tampilan Utama Aplikasi
 ![Screenshot Dashboard](https://github.com/hilman1237050020/AplikasiPenjadwalan-UAS-PBO/blob/main/Demo%20Aplikasi/Screenshot%202025-06-28%20075749.png?raw=true)
+### Tampilan Halaman CRUD
 ![Screenshot CRUD](https://github.com/hilman1237050020/AplikasiPenjadwalan-UAS-PBO/blob/main/Demo%20Aplikasi/Screenshot%202025-06-28%20075756.png?raw=true)
 
 *Caption: Tampilan utama aplikasi penjadwalan kegiatan*
