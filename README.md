@@ -132,6 +132,7 @@ INSERT INTO event (name, date, time, description, priority) VALUES
 - Menerapkan struktur kode yang terpisah dan modular
 - Meningkatkan kemampuan kerja sama tim dalam proyek kelompok
 - Memahami alur **CRUD** (Create, Read, Update, Delete) dalam program GUI
+- Implementasi SOLID Principle kedalam aplikasi
 
 ---
 
@@ -155,6 +156,6 @@ INSERT INTO event (name, date, time, description, priority) VALUES
 
 ## 🏁 Penutup
 
-Aplikasi ini merupakan hasil kerja sama tim yang menunjukkan pemahaman dasar kami tentang PBO, GUI Swing, dan pengelolaan data menggunakan MySQL. Harapannya, proyek ini bisa menjadi fondasi untuk mengembangkan sistem yang lebih kompleks ke depannya.
+Aplikasi ini merupakan hasil kerja sama tim yang menunjukkan pemahaman dasar kami tentang PBO, GUI Swing, Penggunaan SOLID Principle dan pengelolaan data menggunakan MySQL. Harapannya, proyek ini bisa menjadi fondasi untuk mengembangkan sistem yang lebih kompleks ke depannya.
 
-Terima kasih kepada dosen pengampu dan seluruh anggota tim atas kontribusinya. 🙏
+Terima kasih kepada dosen pengampu Bapak Muhammad Deden Firdaus, S.T., M.Kom. dan seluruh anggota tim atas kontribusinya. 🙏
