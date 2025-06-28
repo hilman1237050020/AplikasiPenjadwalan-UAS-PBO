@@ -34,16 +34,16 @@ Aplikasi ini menyimpan data secara **lokal** di **database MySQL**, dan menyedia
 
 ## 🛠️ Fitur Aplikasi
 
-- ✅ **Menambah Event Baru**  
+- ✅ **Menambah Jadwal Baru**  
   Pengguna dapat menambahkan event baru yang berisi informasi nama kegiatan, tanggal, waktu, deskripsi kegiatan, dan prioritas.
 
-- ✅ **Melihat Daftar Event**  
+- ✅ **Melihat Jadwal Event**  
   Semua event ditampilkan dalam urutan berdasarkan tanggal dan waktu, sehingga pengguna mudah melihat jadwal terdekat.
 
-- ✅ **Mengedit Event**  
+- ✅ **Mengedit Jadwal**  
   Pengguna bisa memilih event yang sudah ada dan mengubah informasinya sesuai kebutuhan.
 
-- ✅ **Menghapus Event**  
+- ✅ **Menghapus Jadwal**  
   Event yang sudah tidak diperlukan dapat dihapus dari database.
 
 - ✅ **Navigasi Menu**  
